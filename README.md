@@ -1,6 +1,6 @@
 # Dice Game Project
 
-This project is a dice game implemented in JavaScript.".
+This project is a dice game implemented in JavaScript.
 
 ## Introduction
 
